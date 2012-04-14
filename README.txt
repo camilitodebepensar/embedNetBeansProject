@@ -1,11 +1,8 @@
 
-	embedXcode
+	embedNetBeansProject
 	----------------------------------
-	Embedded Computing Template on Xcode 4.3
+	Embedded Computing with NetBeans
 
-	mpideXcode
-	----------------------------------
-	Embedded Computing Project on Xcode 4.3
 
 
 	© Rei VILO, 2010-2012
@@ -19,14 +16,15 @@
 	https://github.com/rei-vilo/mpideXcode
 	
 
+	This is only a showcase to test the makefiles.
+
+
 embedXcode • Apr 08, 2012 release 8 • Bugs fixed
 mpideXcode • Apr 08, 2012 release 11 • Bugs fixed
 
 
 Installation
 ----------------------------------
-Check and create ~/Library/Developer/Xcode
-Copy the folder Templates into ~/Library/Developer/Xcode
 Read enclosed Installation Guide
 
 
