@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.cnd.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>embedNetBeansProject</name>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions>cpp,pde</cpp-extensions>
+            <header-extensions>h</header-extensions>
+            <sourceEncoding>UTF-8</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>/Applications/Arduino.app/Contents/Resources/Java/libraries</sourceRootElem>
+                <sourceRootElem>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores</sourceRootElem>
+                <sourceRootElem>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/cores</sourceRootElem>
+                <sourceRootElem>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/libraries</sourceRootElem>
+                <sourceRootElem>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores</sourceRootElem>
+                <sourceRootElem>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries</sourceRootElem>
+                <sourceRootElem>/Applications/Wiring.app/Contents/Resources/Java/cores</sourceRootElem>
+                <sourceRootElem>/Applications/Wiring.app/Contents/Resources/Java/libraries</sourceRootElem>
+                <sourceRootElem>/Users/OlS/Documents/Arduino/Libraries</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>Debug</name>
+                    <type>1</type>
+                </confElem>
+                <confElem>
+                    <name>Release</name>
+                    <type>1</type>
+                </confElem>
+            </confList>
+        </data>
+    </configuration>
+</project>

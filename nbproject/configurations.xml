@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="80">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="f1" displayName="About" projectFiles="true">
+      <itemPath>About/Licence CC BY-NC-SA.txt</itemPath>
+      <itemPath>About/Licence GNU LGPL.txt</itemPath>
+      <itemPath>README.txt</itemPath>
+      <itemPath>About/README_mjo_tc.txt</itemPath>
+      <itemPath>About/README_peplin.txt</itemPath>
+      <itemPath>About/References.txt</itemPath>
+    </logicalFolder>
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+      <logicalFolder name="f2" displayName="Arduino" projectFiles="true">
+        <logicalFolder name="cores" displayName="cores" projectFiles="true">
+          <logicalFolder name="arduino" displayName="arduino" projectFiles="true">
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/HardwareSerial.cpp</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/HardwareSerial.h</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/Print.cpp</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/Print.h</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/Stream.h</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/Tone.cpp</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/WCharacter.h</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/WConstants.h</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/WInterrupts.c</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/WMath.cpp</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/WProgram.h</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/WString.cpp</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/WString.h</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/binary.h</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/main.cpp</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/pins_arduino.c</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/pins_arduino.h</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/wiring.c</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/wiring.h</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/wiring_analog.c</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/wiring_digital.c</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/wiring_private.h</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/wiring_pulse.c</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores/arduino/wiring_shift.c</itemPath>
+          </logicalFolder>
+        </logicalFolder>
+        <logicalFolder name="libraries" displayName="libraries" projectFiles="true">
+          <logicalFolder name="EEPROM" displayName="EEPROM" projectFiles="true">
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/EEPROM/EEPROM.cpp</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/EEPROM/EEPROM.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Ethernet" displayName="Ethernet" projectFiles="true">
+            <logicalFolder name="utility" displayName="utility" projectFiles="true">
+              <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Ethernet/utility/socket.cpp</itemPath>
+              <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Ethernet/utility/socket.h</itemPath>
+              <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Ethernet/utility/w5100.cpp</itemPath>
+              <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Ethernet/utility/w5100.h</itemPath>
+            </logicalFolder>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Ethernet/Client.cpp</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Ethernet/Client.h</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Ethernet/Ethernet.cpp</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Ethernet/Ethernet.h</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Ethernet/Server.cpp</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Ethernet/Server.h</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Ethernet/Udp.cpp</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Ethernet/Udp.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Firmata" displayName="Firmata" projectFiles="true">
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Firmata/Boards.h</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Firmata/Firmata.cpp</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Firmata/Firmata.h</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Firmata/LICENSE.txt</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Firmata/TODO.txt</itemPath>
+          </logicalFolder>
+          <logicalFolder name="LiquidCrystal"
+                         displayName="LiquidCrystal"
+                         projectFiles="true">
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/LiquidCrystal/LiquidCrystal.cpp</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/LiquidCrystal/LiquidCrystal.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Matrix" displayName="Matrix" projectFiles="true">
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Matrix/Matrix.cpp</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Matrix/Matrix.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="SD" displayName="SD" projectFiles="true">
+            <logicalFolder name="utility" displayName="utility" projectFiles="true">
+              <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/SD/utility/FatStructs.h</itemPath>
+              <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/SD/utility/Sd2Card.cpp</itemPath>
+              <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/SD/utility/Sd2Card.h</itemPath>
+              <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/SD/utility/Sd2PinMap.h</itemPath>
+              <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/SD/utility/SdFat.h</itemPath>
+              <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/SD/utility/SdFatUtil.h</itemPath>
+              <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/SD/utility/SdFatmainpage.h</itemPath>
+              <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/SD/utility/SdFile.cpp</itemPath>
+              <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/SD/utility/SdInfo.h</itemPath>
+              <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/SD/utility/SdVolume.cpp</itemPath>
+            </logicalFolder>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/SD/File.cpp</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/SD/README.txt</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/SD/SD.cpp</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/SD/SD.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Servo" displayName="Servo" projectFiles="true">
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Servo/Servo.cpp</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Servo/Servo.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="SoftwareSerial"
+                         displayName="SoftwareSerial"
+                         projectFiles="true">
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/SoftwareSerial/SoftwareSerial.cpp</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/SoftwareSerial/SoftwareSerial.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="SPI" displayName="SPI" projectFiles="true">
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/SPI/SPI.cpp</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/SPI/SPI.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Sprite" displayName="Sprite" projectFiles="true">
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Sprite/Sprite.cpp</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Sprite/Sprite.h</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Sprite/binary.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Stepper" displayName="Stepper" projectFiles="true">
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Stepper/Stepper.cpp</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Stepper/Stepper.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Wire" displayName="Wire" projectFiles="true">
+            <logicalFolder name="utility" displayName="utility" projectFiles="true">
+              <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Wire/utility/twi.c</itemPath>
+              <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Wire/utility/twi.h</itemPath>
+            </logicalFolder>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Wire/Wire.cpp</itemPath>
+            <itemPath>/Applications/Arduino.app/Contents/Resources/Java/libraries/Wire/Wire.h</itemPath>
+          </logicalFolder>
+        </logicalFolder>
+      </logicalFolder>
+      <logicalFolder name="f1" displayName="chipKIT" projectFiles="true">
+        <logicalFolder name="cores" displayName="cores" projectFiles="true">
+          <logicalFolder name="pic32" displayName="pic32" projectFiles="true">
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/HardwareSerial.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/HardwareSerial.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/HardwareSerial_cdcacm.c</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/HardwareSerial_cdcacm.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/HardwareSerial_usb.c</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/HardwareSerial_usb.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/Print.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/Print.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/Stream.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/System_Config.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/System_Defs.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/Tone.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/ToneNotes.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/WCharacter.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/WConstants.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/WInterrupts.c</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/WMath.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/WProgram.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/WString.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/WString.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/binary.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/chipKIT-MAX32-application-32MX795F512L.ld</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/chipKIT-UNO32-application-32MX320F128L.ld</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/chipKIT-application-32MX360F512L.ld</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/chipKIT-application-32MX440F512H.ld</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/chipKIT-application-32MX460F512L.ld</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/cpp-startup.S</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/cpudefs.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/crti.S</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/crtn.S</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/exceptions.c</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/main.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/p32_defs.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/pins_arduino.c</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/pins_arduino.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/wiring.c</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/wiring.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/wiring_analog.c</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/wiring_digital.c</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/wiring_private.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/wiring_pulse.c</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores/pic32/wiring_shift.c</itemPath>
+          </logicalFolder>
+        </logicalFolder>
+        <logicalFolder name="libraries" displayName="libraries" projectFiles="true">
+          <logicalFolder name="ArduinoTestSuite"
+                         displayName="ArduinoTestSuite"
+                         projectFiles="true">
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/ArduinoTestSuite/ArduinoTestSuite.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/ArduinoTestSuite/ArduinoTestSuite.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/ArduinoTestSuite/avr_cpunames.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="DSPI" displayName="DSPI" projectFiles="true">
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/DSPI/DSPI.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/DSPI/DSPI.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="EEPROM" displayName="EEPROM" projectFiles="true">
+            <logicalFolder name="utility" displayName="utility" projectFiles="true">
+              <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/EEPROM/utility/Deeprom.c</itemPath>
+              <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/EEPROM/utility/Deeprom.h</itemPath>
+            </logicalFolder>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/EEPROM/EEPROM.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/EEPROM/EEPROM.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Ethernet" displayName="Ethernet" projectFiles="true">
+            <logicalFolder name="utility" displayName="utility" projectFiles="true">
+              <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Ethernet/utility/socket.cpp</itemPath>
+              <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Ethernet/utility/socket.h</itemPath>
+              <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Ethernet/utility/w5100.cpp</itemPath>
+              <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Ethernet/utility/w5100.h</itemPath>
+            </logicalFolder>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Ethernet/Client.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Ethernet/Client.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Ethernet/Ethernet.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Ethernet/Ethernet.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Ethernet/Server.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Ethernet/Server.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Ethernet/Udp.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Ethernet/Udp.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Firmata" displayName="Firmata" projectFiles="true">
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Firmata/Boards.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Firmata/Firmata.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Firmata/Firmata.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Firmata/LICENSE.txt</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Firmata/TODO.txt</itemPath>
+          </logicalFolder>
+          <logicalFolder name="LiquidCrystal"
+                         displayName="LiquidCrystal"
+                         projectFiles="true">
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/LiquidCrystal/LiquidCrystal.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/LiquidCrystal/LiquidCrystal.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Matrix" displayName="Matrix" projectFiles="true">
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Matrix/Matrix.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Matrix/Matrix.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="OneWire" displayName="OneWire" projectFiles="true">
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/OneWire/OneWire.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/OneWire/OneWire.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="SD" displayName="SD" projectFiles="true">
+            <logicalFolder name="utility" displayName="utility" projectFiles="true">
+              <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/SD/utility/FatStructs.h</itemPath>
+              <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/SD/utility/Sd2Card.cpp</itemPath>
+              <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/SD/utility/Sd2Card.h</itemPath>
+              <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/SD/utility/Sd2PinMap.h</itemPath>
+              <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/SD/utility/SdFat.h</itemPath>
+              <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/SD/utility/SdFatUtil.h</itemPath>
+              <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/SD/utility/SdFatmainpage.h</itemPath>
+              <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/SD/utility/SdFile.cpp</itemPath>
+              <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/SD/utility/SdInfo.h</itemPath>
+              <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/SD/utility/SdVolume.cpp</itemPath>
+            </logicalFolder>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/SD/File.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/SD/README.txt</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/SD/SD.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/SD/SD.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Servo" displayName="Servo" projectFiles="true">
+            <logicalFolder name="utility" displayName="utility" projectFiles="true">
+              <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Servo/utility/int.c</itemPath>
+              <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Servo/utility/int.h</itemPath>
+            </logicalFolder>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Servo/Servo.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Servo/Servo.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="SoftPWMServo"
+                         displayName="SoftPWMServo"
+                         projectFiles="true">
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/SoftPWMServo/README.TXT</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/SoftPWMServo/SoftPWMServo.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/SoftPWMServo/SoftPWMServo.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="SoftSPI" displayName="SoftSPI" projectFiles="true">
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/SoftSPI/SoftSPI.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/SoftSPI/SoftSPI.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="SoftwareSerial"
+                         displayName="SoftwareSerial"
+                         projectFiles="true">
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/SoftwareSerial/SoftwareSerial.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/SoftwareSerial/SoftwareSerial.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="SPI" displayName="SPI" projectFiles="true">
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/SPI/SPI.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/SPI/SPI.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Sprite" displayName="Sprite" projectFiles="true">
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Sprite/Sprite.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Sprite/Sprite.h</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Sprite/binary.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Stepper" displayName="Stepper" projectFiles="true">
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Stepper/Stepper.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Stepper/Stepper.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Wire" displayName="Wire" projectFiles="true">
+            <logicalFolder name="utility" displayName="utility" projectFiles="true">
+              <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Wire/utility/twi.c</itemPath>
+              <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Wire/utility/twi.h</itemPath>
+            </logicalFolder>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Wire/Wire.cpp</itemPath>
+            <itemPath>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries/Wire/Wire.h</itemPath>
+          </logicalFolder>
+        </logicalFolder>
+      </logicalFolder>
+      <logicalFolder name="f4" displayName="LaunchPad" projectFiles="true">
+        <logicalFolder name="cores" displayName="cores" projectFiles="true">
+          <logicalFolder name="msp430" displayName="msp430" projectFiles="true">
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/cores/msp430/Energia.h</itemPath>
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/cores/msp430/HardwareSerial.cpp</itemPath>
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/cores/msp430/HardwareSerial.h</itemPath>
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/cores/msp430/Print.cpp</itemPath>
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/cores/msp430/Print.h</itemPath>
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/cores/msp430/Printable.h</itemPath>
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/cores/msp430/Stream.cpp</itemPath>
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/cores/msp430/Stream.h</itemPath>
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/cores/msp430/WCharacter.h</itemPath>
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/cores/msp430/WInterrupts.c</itemPath>
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/cores/msp430/WMath.cpp</itemPath>
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/cores/msp430/WString.cpp</itemPath>
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/cores/msp430/WString.h</itemPath>
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/cores/msp430/binary.h</itemPath>
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/cores/msp430/main.cpp</itemPath>
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/cores/msp430/new.cpp</itemPath>
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/cores/msp430/new.h</itemPath>
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/cores/msp430/wiring.c</itemPath>
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/cores/msp430/wiring_analog.c</itemPath>
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/cores/msp430/wiring_digital.c</itemPath>
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/cores/msp430/wiring_private.h</itemPath>
+          </logicalFolder>
+        </logicalFolder>
+        <logicalFolder name="libraries" displayName="libraries" projectFiles="true">
+          <logicalFolder name="TimerSerial" displayName="TimerSerial" projectFiles="true">
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/libraries/TimerSerial/TimerSerial.cpp</itemPath>
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/libraries/TimerSerial/TimerSerial.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Wire" displayName="Wire" projectFiles="true">
+            <logicalFolder name="utility" displayName="utility" projectFiles="true">
+              <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/libraries/Wire/utility/twi.c</itemPath>
+              <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/libraries/Wire/utility/twi.h</itemPath>
+            </logicalFolder>
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/libraries/Wire/Wire.cpp</itemPath>
+            <itemPath>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/libraries/Wire/Wire.h</itemPath>
+          </logicalFolder>
+        </logicalFolder>
+      </logicalFolder>
+      <logicalFolder name="f5" displayName="Sketchbook" projectFiles="true">
+        <logicalFolder name="Libraries" displayName="Libraries" projectFiles="true">
+          <logicalFolder name="_Deprecated" displayName="_Deprecated" projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/_Deprecated/I2C Library.numbers</itemPath>
+          </logicalFolder>
+          <logicalFolder name="DWIFIcK" displayName="DWIFIcK" projectFiles="true">
+            <logicalFolder name="utility" displayName="utility" projectFiles="true">
+              <logicalFolder name="TCPIP Stack" displayName="TCPIP Stack" projectFiles="true">
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/ARCFOUR.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/ARP.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/Announce.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/AutoIP.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/BerkeleyAPI.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/BigInt.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/DHCP.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/DNS.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/Delay.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/DynDNS.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/ENC28J60.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/ENCX24J600.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/ETH97J60.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/ETHPIC32ExtPhy.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/ETHPIC32ExtPhyDP83640.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/ETHPIC32ExtPhyDP83848.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/ETHPIC32ExtPhyRegs.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/ETHPIC32ExtPhySMSC8700.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/ETHPIC32ExtPhySMSC8720.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/FTP.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/FileSystem.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/HTTP.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/HTTP2.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/HardwareProfileTemplate.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/Hashes.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/Helpers.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/ICMP.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/IP.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/LCDBlocking.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/MAC.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/MPFS.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/MPFS2.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/NBNS.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/RSA.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/Random.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/Reboot.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/SMTP.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/SNMP.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/SNMPv3.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/SNTP.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/SPIFlash.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/SPIRAM.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/SSL.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/StackTsk.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/TCP.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/TCPIP.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/TCPIPConfigTemplate.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/TCPPerformanceTest.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/TFTPc.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/Telnet.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/Tick.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/UART.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/UART2TCPBridge.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/UDP.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/UDPPerformanceTest.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/WFApi.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/WFConsole.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/WFConsoleIfconfig.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/WFConsoleIwconfig.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/WFConsoleIwpriv.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/WFConsoleMsgHandler.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/WFConsoleMsgs.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/WFDriverPrv.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/WFEasyConfig.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/WFMac.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/WFMgmtMsg.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/WFRaw.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/WF_ConfigTemplate.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/XEEPROM.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/ZeroconfHelper.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/ZeroconfLinkLocal.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/ZeroconfMulticastDNS.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/_HTTP2.h</itemPath>
+                <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIP Stack/regdef.h</itemPath>
+              </logicalFolder>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/ARP.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/Compiler.h</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/DHCP.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/DNETcKAPI.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/DNETcKAPI.h</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/DNS.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/DWIFIcKAPI.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/DWIFIcKAPI.h</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/Delay.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/HardwareProfile.h</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/Helpers.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/ICMP.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/IP.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/MX3-TCPIPConfig.h</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/MX3cK-MRF24WB0MA.h</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/MX4-TCPIPConfig.h</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/MX4cK-MRF24WB0MA.h</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/MX7-TCPIPConfig.h</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/MX7cK-MRF24WB0MA.h</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/Max32-MRF24WB0MA.h</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/NBNS.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/Reboot.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/SNTP.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/StackTsk.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCP.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/TCPIPConfig.h</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/Tick.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/UDP.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/Uno32-MRF24WB0MA.h</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/WFConnectionAlgorithm.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/WFConnectionManager.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/WFConnectionProfile.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/WFDataTxRx.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/WFDriverCom.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/WFDriverRaw.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/WFEventHandler.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/WFInit.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/WFMac.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/WFMgmtMsg.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/WFParamMsg.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/WFPowerSave.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/WFScan.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/WF_Config.h</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/WF_Eint.c</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/utility/WF_Spi.c</itemPath>
+            </logicalFolder>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/DNETcK.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/DNETcK.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/DWIFIcK.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/DWIFIcK.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/TcpClient.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/TcpServer.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/UdpClient.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/DWIFIcK/UdpServer.cpp</itemPath>
+          </logicalFolder>
+          <logicalFolder name="GB_Libraries"
+                         displayName="GB_Libraries"
+                         projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/Console.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/Console.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/GB4DLcdDriver.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/GB4DLcdDriver.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/GBDhcp.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/GBDns.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/GBEthernet.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/GBEthernet.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/GBEthernetClient.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/GBEthernetClient.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/GBEthernetServer.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/GBEthernetServer.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/GBEthernetUdp.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/GBIMAC.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/GBIMAC.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/GBServer.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/GBStatus.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/GBStatus.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/GString.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/SC16SpiTransport.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/SC16SpiTransport.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/SerialTransport.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/SerialTransport.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/SpiTransport.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/SpiTransport.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/Transport.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/Transport.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/WizFi210.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/GB_Libraries/WizFi210.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="I2C_20x4" displayName="I2C_20x4" projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_20x4/I2C_20x4.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_20x4/I2C_20x4.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="I2C_Accelerometer"
+                         displayName="I2C_Accelerometer"
+                         projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Accelerometer/I2C_Accelerometer.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Accelerometer/I2C_Accelerometer.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="I2C_Ambient" displayName="I2C_Ambient" projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Ambient/I2C_Ambient.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Ambient/I2C_Ambient.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="I2C_Barometer"
+                         displayName="I2C_Barometer"
+                         projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Barometer/I2C_Barometer.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Barometer/I2C_Barometer.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="I2C_Climate" displayName="I2C_Climate" projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Climate/I2C_Climate.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Climate/I2C_Climate.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="I2C_Clock" displayName="I2C_Clock" projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Clock/I2C_Clock.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Clock/I2C_Clock.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="I2C_Clock2" displayName="I2C_Clock2" projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Clock2/I2C_Clock2.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Clock2/I2C_Clock2.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="I2C_Compass" displayName="I2C_Compass" projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Compass/I2C_Compass.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Compass/I2C_Compass.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="I2C_EEPROM" displayName="I2C_EEPROM" projectFiles="true">
+          </logicalFolder>
+          <logicalFolder name="I2C_Gyroscope"
+                         displayName="I2C_Gyroscope"
+                         projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Gyroscope/I2C_Gyroscope.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Gyroscope/I2C_Gyroscope.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="I2C_Height_IOs"
+                         displayName="I2C_Height_IOs"
+                         projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Height_IOs/I2C_Height_IOs.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Height_IOs/I2C_Height_IOs.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="I2C_Humidity"
+                         displayName="I2C_Humidity"
+                         projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Humidity/I2C_Humidity.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Humidity/I2C_Humidity.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="I2C_IMU" displayName="I2C_IMU" projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_IMU/I2C_IMU.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_IMU/I2C_IMU.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="I2C_IMU2" displayName="I2C_IMU2" projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_IMU2/I2C_IMU2.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_IMU2/I2C_IMU2.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="I2C_Magnetometer"
+                         displayName="I2C_Magnetometer"
+                         projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Magnetometer/I2C_Magnetometer.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Magnetometer/I2C_Magnetometer.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="I2C_Potentiometer"
+                         displayName="I2C_Potentiometer"
+                         projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Potentiometer/I2C_Potentiometer.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Potentiometer/I2C_Potentiometer.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="I2C_Pressure"
+                         displayName="I2C_Pressure"
+                         projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Pressure/I2C_Pressure.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Pressure/I2C_Pressure.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="I2C_Proximity"
+                         displayName="I2C_Proximity"
+                         projectFiles="true">
+          </logicalFolder>
+          <logicalFolder name="I2C_RGB_LED" displayName="I2C_RGB_LED" projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_RGB_LED/I2C_RGB_LED.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_RGB_LED/I2C_RGB_LED.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="I2C_RGBC_Reader"
+                         displayName="I2C_RGBC_Reader"
+                         projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_RGBC_Reader/I2C_RGBC_Reader.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_RGBC_Reader/I2C_RGBC_Reader.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_RGBC_Reader/RGB to HSV.numbers</itemPath>
+          </logicalFolder>
+          <logicalFolder name="I2C_Serial" displayName="I2C_Serial" projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Serial/I2C_Serial.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Serial/I2C_Serial.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="I2C_Stepper" displayName="I2C_Stepper" projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Stepper/I2C_Stepper.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Stepper/I2C_Stepper.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="I2C_Template"
+                         displayName="I2C_Template"
+                         projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Template/I2C_TemplateLibrary.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Template/I2C_TemplateLibrary.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="I2C_Thermometer"
+                         displayName="I2C_Thermometer"
+                         projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Thermometer/I2C_Thermometer.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/I2C_Thermometer/I2C_Thermometer.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="MatrixMath" displayName="MatrixMath" projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/MatrixMath/MatrixMath.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/MatrixMath/MatrixMath.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="NewSoftSerial"
+                         displayName="NewSoftSerial"
+                         projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/NewSoftSerial/NewSoftSerial.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/NewSoftSerial/NewSoftSerial.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/NewSoftSerial/icrmacros.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="pic32_RTC" displayName="pic32_RTC" projectFiles="true">
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/pic32_RTC/pic32_RTC.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/pic32_RTC/pic32_RTC.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Serial_20x4" displayName="Serial_20x4" projectFiles="true">
+          </logicalFolder>
+          <logicalFolder name="Serial_GPS" displayName="Serial_GPS" projectFiles="true">
+            <logicalFolder name="Archives" displayName="Archives" projectFiles="true">
+            </logicalFolder>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/Serial_GPS/Serial_GPS.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/Serial_GPS/Serial_GPS.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Serial_LCD" displayName="Serial_LCD" projectFiles="true">
+            <logicalFolder name="Archive" displayName="Archive" projectFiles="true">
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/Serial_LCD/Archive/GUI.cpp</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/Serial_LCD/Archive/GUI.h</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/Serial_LCD/Archive/Graphics.cpp</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/Serial_LCD/Archive/Graphics.h</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/Serial_LCD/Archive/Serial_LCD.cpp</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/Serial_LCD/Archive/Serial_LCD.h</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/Serial_LCD/Archive/proxySerial.cpp</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/Serial_LCD/Archive/proxySerial.h</itemPath>
+            </logicalFolder>
+            <logicalFolder name="Archives" displayName="Archives" projectFiles="true">
+            </logicalFolder>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/Serial_LCD/GUI.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/Serial_LCD/GUI.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/Serial_LCD/Gallery.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/Serial_LCD/Gallery.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/Serial_LCD/Graphics.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/Serial_LCD/Graphics.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/Serial_LCD/README.MD</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/Serial_LCD/Serial_LCD.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/Serial_LCD/Serial_LCD.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/Serial_LCD/proxySerial.cpp</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/Serial_LCD/proxySerial.h</itemPath>
+            <itemPath>/Users/OlS/Documents/Arduino/Libraries/Serial_LCD/vector.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Serial_WiFi" displayName="Serial_WiFi" projectFiles="true">
+          </logicalFolder>
+          <logicalFolder name="Time" displayName="Time" projectFiles="true">
+            <logicalFolder name="DS1307RTC" displayName="DS1307RTC" projectFiles="true">
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/Time/DS1307RTC/DS1307RTC.cpp</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/Time/DS1307RTC/DS1307RTC.h</itemPath>
+            </logicalFolder>
+            <logicalFolder name="Time" displayName="Time" projectFiles="true">
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/Time/Time/DateStrings.cpp</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/Time/Time/Time.cpp</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/Time/Time/Time.h</itemPath>
+            </logicalFolder>
+            <logicalFolder name="TimeAlarms" displayName="TimeAlarms" projectFiles="true">
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/Time/TimeAlarms/TimeAlarms.cpp</itemPath>
+              <itemPath>/Users/OlS/Documents/Arduino/Libraries/Time/TimeAlarms/TimeAlarms.h</itemPath>
+            </logicalFolder>
+          </logicalFolder>
+        </logicalFolder>
+      </logicalFolder>
+      <logicalFolder name="f3" displayName="Wiring" projectFiles="true">
+        <logicalFolder name="cores" displayName="cores" projectFiles="true">
+          <logicalFolder name="AVR16Bit" displayName="AVR16Bit" projectFiles="true">
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR16Bit/WAnalog.c</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR16Bit/WDelay.c</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR16Bit/WDigital.c</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR16Bit/WDigital.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR16Bit/WHardwareSerial.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR16Bit/WHardwareSerial.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR16Bit/WHardwareTimer.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR16Bit/WHardwareTimer.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR16Bit/WInterrupts.c</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR16Bit/WPWM.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR16Bit/WPower.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR16Bit/WProgram.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR16Bit/WPulse.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR16Bit/WTone.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR16Bit/main.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR16Bit/makefile</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR16Bit/program.cpp</itemPath>
+          </logicalFolder>
+          <logicalFolder name="AVR8Bit" displayName="AVR8Bit" projectFiles="true">
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/HardwareSerial.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/WAnalog.c</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/WAnalog.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/WConstantTypes.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/WConstantTypes.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/WDelay.c</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/WDelay.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/WDigital.c</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/WDigital.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/WHardwareSerial.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/WHardwareSerial.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/WHardwareTimer.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/WHardwareTimer.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/WInterrupts.c</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/WInterrupts.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/WPWM.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/WPWM.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/WPower.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/WProgram.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/WPulse.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/WPulse.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/WSleep.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/WTone.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/WTone.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/Wiring.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/main.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/makefile</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/program.cpp</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Common" displayName="Common" projectFiles="true">
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/Common/Binary.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/Common/Contributors.txt</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/Common/Countable.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/Common/Display.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/Common/FIFO.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/Common/FILO.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/Common/License.txt</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/Common/Print.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/Common/Print.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/Common/Printable.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/Common/Stream.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/Common/WCharacter.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/Common/WConstants.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/Common/WMath.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/Common/WMath.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/Common/WMemory.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/Common/WMemory.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/Common/WShift.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/Common/WShift.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/Common/WString.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/Common/WString.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/Common/WVector.h</itemPath>
+          </logicalFolder>
+        </logicalFolder>
+        <logicalFolder name="libraries" displayName="libraries" projectFiles="true">
+          <logicalFolder name="f1" displayName="AVR16Bit" projectFiles="true">
+            <logicalFolder name="libraries" displayName="libraries" projectFiles="true">
+              <logicalFolder name="NMEA" displayName="NMEA" projectFiles="true">
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR16Bit/libraries/NMEA/nmea.cpp</itemPath>
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR16Bit/libraries/NMEA/nmea.h</itemPath>
+              </logicalFolder>
+            </logicalFolder>
+          </logicalFolder>
+          <logicalFolder name="f2" displayName="AVR8Bit" projectFiles="true">
+            <logicalFolder name="libraries" displayName="libraries" projectFiles="true">
+              <logicalFolder name="EEPROM" displayName="EEPROM" projectFiles="true">
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/EEPROM/EEPROM.cpp</itemPath>
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/EEPROM/EEPROM.h</itemPath>
+              </logicalFolder>
+              <logicalFolder name="EEPROMVar" displayName="EEPROMVar" projectFiles="true">
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/EEPROMVar/EEPROMVar.h</itemPath>
+              </logicalFolder>
+              <logicalFolder name="Encoder" displayName="Encoder" projectFiles="true">
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Encoder/Encoder.cpp</itemPath>
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Encoder/Encoder.h</itemPath>
+              </logicalFolder>
+              <logicalFolder name="Firmata" displayName="Firmata" projectFiles="true">
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Firmata/Boards.h</itemPath>
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Firmata/Firmata.cpp</itemPath>
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Firmata/Firmata.h</itemPath>
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Firmata/LICENSE.txt</itemPath>
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Firmata/TODO.txt</itemPath>
+              </logicalFolder>
+              <logicalFolder name="LiquidCrystal"
+                             displayName="LiquidCrystal"
+                             projectFiles="true">
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/LiquidCrystal/LiquidCrystal.cpp</itemPath>
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/LiquidCrystal/LiquidCrystal.h</itemPath>
+              </logicalFolder>
+              <logicalFolder name="Matrix" displayName="Matrix" projectFiles="true">
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Matrix/Matrix.cpp</itemPath>
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Matrix/Matrix.h</itemPath>
+              </logicalFolder>
+              <logicalFolder name="NewSoftSerial"
+                             displayName="NewSoftSerial"
+                             projectFiles="true">
+                <logicalFolder name="Examples" displayName="Examples" projectFiles="true">
+                  <logicalFolder name="NewSoftSerialTest"
+                                 displayName="NewSoftSerialTest"
+                                 projectFiles="true">
+                    <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/NewSoftSerial/Examples/NewSoftSerialTest/NewSoftSerialTest.pde</itemPath>
+                  </logicalFolder>
+                  <logicalFolder name="TwoNSSTest" displayName="TwoNSSTest" projectFiles="true">
+                    <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/NewSoftSerial/Examples/TwoNSSTest/TwoNSSTest.pde</itemPath>
+                  </logicalFolder>
+                </logicalFolder>
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/NewSoftSerial/NewSoftSerial.cpp</itemPath>
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/NewSoftSerial/NewSoftSerial.h</itemPath>
+              </logicalFolder>
+              <logicalFolder name="Servo" displayName="Servo" projectFiles="true">
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Servo/Servo.cpp</itemPath>
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Servo/Servo.h</itemPath>
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Servo/ServoTimers.h</itemPath>
+              </logicalFolder>
+              <logicalFolder name="SoftwareSerial"
+                             displayName="SoftwareSerial"
+                             projectFiles="true">
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/SoftwareSerial/SoftwareSerial.cpp</itemPath>
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/SoftwareSerial/SoftwareSerial.h</itemPath>
+              </logicalFolder>
+              <logicalFolder name="SPI" displayName="SPI" projectFiles="true">
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/SPI/SPI.cpp</itemPath>
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/SPI/SPI.h</itemPath>
+              </logicalFolder>
+              <logicalFolder name="Wire" displayName="Wire" projectFiles="true">
+                <logicalFolder name="utility" displayName="utility" projectFiles="true">
+                  <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Wire/utility/twi.c</itemPath>
+                  <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Wire/utility/twi.h</itemPath>
+                </logicalFolder>
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Wire/Wire.cpp</itemPath>
+                <itemPath>/Applications/Wiring.app/Contents/Resources/Java/cores/AVR8Bit/libraries/Wire/Wire.h</itemPath>
+              </logicalFolder>
+            </logicalFolder>
+          </logicalFolder>
+          <logicalFolder name="Button" displayName="Button" projectFiles="true">
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/Button/Button.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/Button/Button.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Constrain" displayName="Constrain" projectFiles="true">
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/Constrain/Constrain.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="FluentPrint" displayName="FluentPrint" projectFiles="true">
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/FluentPrint/FluentPrint.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="FSM" displayName="FSM" projectFiles="true">
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/FSM/FiniteStateMachine.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/FSM/FiniteStateMachine.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/FSM/LED_FSM.png</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/FSM/LED_FSM.vsd</itemPath>
+          </logicalFolder>
+          <logicalFolder name="HashMap" displayName="HashMap" projectFiles="true">
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/HashMap/HashMap.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Keypad" displayName="Keypad" projectFiles="true">
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/Keypad/Keypad.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/Keypad/Keypad.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="LED" displayName="LED" projectFiles="true">
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/LED/LED.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/LED/LED.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="MenuBackend" displayName="MenuBackend" projectFiles="true">
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/MenuBackend/MenuBackend.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/MenuBackend/MenuBackend.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Messenger" displayName="Messenger" projectFiles="true">
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/Messenger/Messenger.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/Messenger/Messenger.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="NMEA" displayName="NMEA" projectFiles="true">
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/NMEA/nmea.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/NMEA/nmea.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="OSC" displayName="OSC" projectFiles="true">
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/OSC/OSC.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/OSC/OSC.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Password" displayName="Password" projectFiles="true">
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/Password/Password.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/Password/Password.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Potentiometer"
+                         displayName="Potentiometer"
+                         projectFiles="true">
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/Potentiometer/Potentiometer.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/Potentiometer/Potentiometer.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Scheduler" displayName="Scheduler" projectFiles="true">
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/Scheduler/Scheduler.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="SmoothInterpolate"
+                         displayName="SmoothInterpolate"
+                         projectFiles="true">
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/SmoothInterpolate/SmoothInterpolate.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Sprite" displayName="Sprite" projectFiles="true">
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/Sprite/Sprite.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/Sprite/Sprite.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Stepper" displayName="Stepper" projectFiles="true">
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/Stepper/Stepper.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/Stepper/Stepper.h</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/Stepper/tutorial.txt</itemPath>
+          </logicalFolder>
+          <logicalFolder name="Supervisor" displayName="Supervisor" projectFiles="true">
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/Supervisor/Supervisor.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/Supervisor/Supervisor.h</itemPath>
+          </logicalFolder>
+          <logicalFolder name="TimedAction" displayName="TimedAction" projectFiles="true">
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/TimedAction/TimedAction.cpp</itemPath>
+            <itemPath>/Applications/Wiring.app/Contents/Resources/Java/libraries/TimedAction/TimedAction.h</itemPath>
+          </logicalFolder>
+        </logicalFolder>
+      </logicalFolder>
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>LocalLibrary.cpp</itemPath>
+      <itemPath>LocalLibrary.h</itemPath>
+      <itemPath>Makefile</itemPath>
+      <itemPath>embedExample.pde</itemPath>
+      <itemPath>main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+      <itemPath>Makefiles</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>/Applications/Arduino.app/Contents/Resources/Java/libraries</Elem>
+    <Elem>/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino/cores</Elem>
+    <Elem>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/cores</Elem>
+    <Elem>/Applications/Energia.app/Contents/Resources/Java/hardware/msp430/libraries</Elem>
+    <Elem>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/cores</Elem>
+    <Elem>/Applications/Mpide.app/Contents/Resources/Java/hardware/pic32/libraries</Elem>
+    <Elem>/Applications/Wiring.app/Contents/Resources/Java/cores</Elem>
+    <Elem>/Applications/Wiring.app/Contents/Resources/Java/libraries</Elem>
+    <Elem>/Users/OlS/Documents/Arduino/Libraries</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+      </toolsSet>
+      <compileType>
+      </compileType>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+    </conf>
+  </confs>
+</configurationDescriptor>
